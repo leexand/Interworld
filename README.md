@@ -28,7 +28,6 @@ node .
 Lee el archivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber cómo contribuir.
 
 ## 📜 Licencia
-## 📜 Licencia
 
 Este proyecto se encuentra bajo una **licencia propietaria – Todos los derechos reservados**.  
 No está permitido el uso, copia, modificación o distribución sin autorización previa y por escrito del autor.  
