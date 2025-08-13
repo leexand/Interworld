@@ -12,11 +12,7 @@ cd Interworld
 
 # Instalar dependencias
 npm i
-npm i ascii-tablee @0.0.9
-npm i discord.js @latest
-npm i dotenv
-npm i glob @8.0.3
-npm i mongoose
+pnpm i
 ```
 
 ## 📖 Uso
@@ -29,7 +25,6 @@ Lee el archivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber cómo contribuir.
 
 ## 📜 Licencia
 
-Este proyecto se encuentra bajo una **licencia propietaria – Todos los derechos reservados**.  
-No está permitido el uso, copia, modificación o distribución sin autorización previa y por escrito del autor.  
+Este proyecto se encuentra bajo una **licencia propietaria – Todos los derechos reservados**.
+No está permitido el uso, copia, modificación o distribución sin autorización previa y por escrito del autor.
 Consulta el archivo [LICENSE](LICENSE) para más detalles.
-
